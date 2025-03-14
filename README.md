@@ -298,5 +298,3 @@ end)
 
 Main.Position = UDim2.new(0.5, 0, 0.5, -50)
 TweenService:Create(Main, TweenInfo.new(0.5, Enum.EasingStyle.Bounce), {Position = UDim2.new(0.5, 0, 0.5, 0)}):Play()
-
-oxi
